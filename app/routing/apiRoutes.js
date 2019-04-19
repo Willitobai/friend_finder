@@ -63,6 +63,8 @@ function compareFriends(allFriends, currentFriend) {
 	var matchScores = [];
 	var matchScore = 0;
 	var closestMatch;
+	var j;
+	var i;
 
 	// for each friend (excluding last added)...
 	for (i=0; i<allFriends.length-1; i++) {

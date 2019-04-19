@@ -470,8 +470,9 @@
 				// stores new user's best match and displays to modal
 				var bestFriend = current.bestie;
 				console.log(bestFriend);
-				$("#friend-name").text("Hi " + current.name + ", my name is " + bestFriend.name + "!");
 				$("img#friend-photo").attr("src", bestFriend.photo);
+
+				$("#friend-name").text("Hi " + current.name + ", my name is " + bestFriend.name + "!");
 			});
 
 		}); // ENDS post.done()
