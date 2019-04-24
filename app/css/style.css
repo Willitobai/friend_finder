@@ -30,7 +30,7 @@ p {
 	line-height: 1.75;
 	margin: auto;
 	font-size: 1.2em;
-	color: silver;
+	color: gold;
 }
 
 footer {
@@ -48,6 +48,8 @@ footer {
 
 form {
 	margin-top: 40px;
+	color: gold;
+	text-shadow: black;
 }
 
 a {
