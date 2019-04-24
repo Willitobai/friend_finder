@@ -2,7 +2,7 @@ var friends = [
 	{
 		name: "Rick Grimes",
 		photo: "https://nyoobserver.files.wordpress.com/2018/11/twd_905_gp_0618_0158_rt.jpg?quality=80&w=970",
-		scores: [5, 1, 2, 3, 4, 5, 1, 4, 2, 3]
+		scores: [5, 1, 2, 3, 4, 5, 3, 4, 2, 1]
 	},
 
 	{
@@ -14,13 +14,13 @@ var friends = [
 	{
 		name: "Carol",
 		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2014/11/the-walking-dead-episode-513-carol-mcbride-1200-c.jpg",
-		scores: [4, 1, 5, 2, 4, 5, 3, 1, 2, 3]
+		scores: [4, 1, 5, 2, 4, 5, 3, 1, 3, 2]
 	},
 	
 	{
 		name: "Maggie",
 		photo: "https://i.pinimg.com/originals/22/3b/ea/223beabca05af8c16144cdbe2c275b2c.jpg",
-		scores: [1, 4, 5, 3, 2, 5, 4, 3, 1, 2]
+		scores: [1, 4, 5, 3, 2, 5, 4, 3, 1, 5]
 	},
 
 	{
