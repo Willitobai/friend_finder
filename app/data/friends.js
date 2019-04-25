@@ -8,7 +8,7 @@ var friends = [
 	{
 		name: "Daryl Dickson",
 		photo: "https://i.pinimg.com/originals/d8/6a/5d/d86a5d727f64dc53f829724ac8c6dca4.jpg",
-		scores: [3, 1, 4, 1, 5, 4, 2, 5, 2, 3]
+		scores: [3, 4, 1, 5, 1, 4, 2, 5, 2, 3]
 	},
 
 	{
