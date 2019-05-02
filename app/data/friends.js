@@ -50,14 +50,14 @@ var friends = [
 	{
 		name: "Jesus",
 		photo: "https://images-na.ssl-images-amazon.com/images/I/41mHhEmcOBL.jpg",
-		scores: [1, 4, 5, 3, 2, 5, 4, 3, 1, 5]
+		scores: [2, 4, 5, 1, 2, 1, 5, 3, 4, 3]
 	},
 
 	{
 		name: "Enid",
 		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2017/10/TWD9_FLARE_Katelyn_0020_RT-800x600.jpg",
-		scores: [5, 3, 1, 2, 3, 4, 5, 2, 1, 4]
-	},
+		scores: [2, 3, 5, 4, 1, 4, 5, 2, 1, 3]
+	}
 
 
 	
