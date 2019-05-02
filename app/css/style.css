@@ -1,9 +1,24 @@
 body {
 	font-family: 'Helvetica', sans-serif;
-	 background-image:url("http://moviemarker.co.uk/wp-content/uploads/the-walking-dead-season-8-netflix.jpg");
-	 background-size: cover;
+	 background:#0000;
+	 position: relative;
 }
 
+.home_Img {
+	background-image:url("http://moviemarker.co.uk/wp-content/uploads/the-walking-dead-season-8-netflix.jpg");
+	background-size:cover;
+	width:100%; 
+}
+
+.survey_Img{
+	width: 100%;
+	height: 700px;
+	background-image:url("https://s.yimg.com/ny/api/res/1.2/Ab0hrShePA_B5buir2HJdA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NzQ0O2g9NDk3/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/1e9f9d1e4261946f3988eec94e04ddc3");
+	background-repeat:no-repeat;
+	background-size:cover;
+	position: fixed;
+	z-index:-1;
+}
 .site {
 	display: flex;
 	min-height: 100vh;
@@ -59,11 +74,17 @@ a {
 
 #bestFriendModal {
 	text-align: center;
+	color: orange;
+
+
 }
 
 #bestFriendPhoto {
 	max-width: 100%;
 	height: auto;
+	color: orange;
+
+
 }
 
 span {
