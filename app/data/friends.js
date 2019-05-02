@@ -29,6 +29,37 @@ var friends = [
 		scores: [2, 3, 1, 5, 3, 4, 2, 5, 1, 4]
 	},
 
+	{
+		name: "Negan",
+		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2016/09/the-walking-dead-season-8-negan-dean-morgan-700x1000-cast.jpg",
+		scores: [1, 2, 5, 3, 4, 3, 1, 4, 2, 5]
+	},
+
+	{
+		name: "Carl Grimes",
+		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2010/12/the-walking-dead-season-8-carl-riggs-800x600-cast-1.jpg",
+		scores: [5, 2, 1, 5, 3, 4, 1, 4, 2, 3]
+	},
+
+	{
+		name: "Michonne",
+		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/michonne.jpg",
+		scores: [3, 1, 5, 2, 4, 5, 4, 1, 3, 2]
+	},
+	
+	{
+		name: "Jesus",
+		photo: "https://images-na.ssl-images-amazon.com/images/I/41mHhEmcOBL.jpg",
+		scores: [1, 4, 5, 3, 2, 5, 4, 3, 1, 5]
+	},
+
+	{
+		name: "Enid",
+		photo: "https://images.amcnetworks.com/amc.com/wp-content/uploads/2017/10/TWD9_FLARE_Katelyn_0020_RT-800x600.jpg",
+		scores: [5, 3, 1, 2, 3, 4, 5, 2, 1, 4]
+	},
+
+
 	
 ];
 
