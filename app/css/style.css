@@ -13,7 +13,7 @@ body {
 .survey_Img{
 	width: 100%;
 	height: 700px;
-	background-image:url("https://s.yimg.com/ny/api/res/1.2/Ab0hrShePA_B5buir2HJdA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9NzQ0O2g9NDk3/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/1e9f9d1e4261946f3988eec94e04ddc3");
+	background-image:url("https://www.syfy.com/sites/syfy/files/wire/legacy/The-Walking-Dead-Season-3-Episode-13-The-Governor.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
 	position: fixed;
@@ -82,7 +82,7 @@ a {
 #bestFriendPhoto {
 	max-width: 100%;
 	height: auto;
-	color: orange;
+	
 
 
 }
