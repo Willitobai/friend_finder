@@ -17,9 +17,9 @@ To install the application follow the instructions below:
 
 ## Example
 
-<img src='https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/michonne.jpg' width='900' height='800'>
-<img src='https://images-na.ssl-images-amazon.com/images/I/41mHhEmcOBL.jpg' width='900' height='800'>
-<img src='https://nyoobserver.files.wordpress.com/2018/11/twd_905_gp_0618_0158_rt.jpg?quality=80&w=970' width='900' height='800'>
+<img src='https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/michonne.jpg' width='500' height='600'>
+<img src='https://images-na.ssl-images-amazon.com/images/I/41mHhEmcOBL.jpg' width='500' height='600'>
+<img src='https://i.pinimg.com/originals/d8/6a/5d/d86a5d727f64dc53f829724ac8c6dca4.jpg' width='500' height='600'>
 ## Running Locally
 
 To run the application locally and access it in your browser, first set the `PORT` environment variable to the value of your choice. An example is shown below.
